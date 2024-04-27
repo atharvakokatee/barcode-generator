@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/zoho-barcode-generator/static/js/main.8de96716.js",
+    "main.js": "/zoho-barcode-generator/static/js/main.aa3a9672.js",
     "static/js/213.a4ab5ef7.chunk.js": "/zoho-barcode-generator/static/js/213.a4ab5ef7.chunk.js",
     "static/js/553.3c762ae1.chunk.js": "/zoho-barcode-generator/static/js/553.3c762ae1.chunk.js",
     "static/js/453.bab6df91.chunk.js": "/zoho-barcode-generator/static/js/453.bab6df91.chunk.js",
     "index.html": "/zoho-barcode-generator/index.html",
-    "main.8de96716.js.map": "/zoho-barcode-generator/static/js/main.8de96716.js.map",
+    "main.aa3a9672.js.map": "/zoho-barcode-generator/static/js/main.aa3a9672.js.map",
     "213.a4ab5ef7.chunk.js.map": "/zoho-barcode-generator/static/js/213.a4ab5ef7.chunk.js.map",
     "553.3c762ae1.chunk.js.map": "/zoho-barcode-generator/static/js/553.3c762ae1.chunk.js.map",
     "453.bab6df91.chunk.js.map": "/zoho-barcode-generator/static/js/453.bab6df91.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8de96716.js"
+    "static/js/main.aa3a9672.js"
   ]
 }
